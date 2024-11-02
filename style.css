@@ -1,0 +1,29 @@
+.heading{
+    width:100%;
+    text-align:center;
+}
+.heading h3{
+    display:inline;
+}
+.heading{
+    float:right;
+    border: 1px solid white;
+}
+
+#start, #status, #restart{
+    font-size:22px;
+}
+
+.copyright_footer{
+    bottom:0;
+    position:fixed;
+    background-color:rgb(0, 0, 0);
+    color:white;
+    font-size:20px;
+    text-align:center;
+    width:100%;
+}
+
+canvas{
+    box-shadow: 10px 10px 20px rgb(100, 39, 92);
+}
